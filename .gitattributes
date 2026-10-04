@@ -1,0 +1,11 @@
+* text=auto
+
+# Text files
+*.md text
+*.txt text
+
+# Binary files
+*.efi binary
+*.img binary
+*.zip binary
+*.tar binary

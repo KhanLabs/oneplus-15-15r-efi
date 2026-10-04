@@ -1,0 +1,2 @@
+db8c853f0dbb1a72b7c18147b826b053289ce673ed4a19ebaa2e530b9704b8ea *source/oneplus15/ABL_with_superfastboot(oneplus15).efi
+d3796dad3ed5109c44c2e3200b7d68514546eb3c12c692d146d1f142fcfbe3e9 *source/oneplus15r/(oneplus 15R)ABL_with_superfastboot.efi

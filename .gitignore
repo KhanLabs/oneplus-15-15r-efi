@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets / personal info
+*.pem
+*.key
+*.p12
+*.jks
+*.token
+.env
+serial.txt
+imei.txt
+account.txt
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+backup/
